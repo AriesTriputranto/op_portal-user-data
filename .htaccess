@@ -1,0 +1,35 @@
+AddDefaultCharset utf-8
+AddCharset utf-8 .css .js .json
+ForceType text/html
+DirectoryIndex index index.html
+Redirect 301 /complete.html /
+ErrorDocument 404 /404.html
+
+<Files print.pdf>
+  ForceType application/pdf
+  Header add Content-Disposition "inline; filename=html-standard.pdf"
+</Files>
+
+<Files *.png>
+  ForceType image/png
+</Files>
+
+<Files *.json>
+  ForceType application/json
+</Files>
+
+<Files *.js>
+  ForceType application/javascript
+</Files>
+
+<Files *.txt>
+  ForceType text/plain
+</Files>
+
+<Files *.css>
+  ForceType text/css
+</Files>
+
+<Files *.html>
+  ForceType text/html
+</Files>
