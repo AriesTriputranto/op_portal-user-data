@@ -1,0 +1,774 @@
+18/10/2018 01:46:13 GMT+07:00 - [B_ModelManager] creating ModelManager
+18/10/2018 01:46:13 GMT+07:00 - [B_ModelManager] loading not found returning NULL
+18/10/2018 01:46:13 GMT+07:00 - [B_ModelManager] creating new model
+18/10/2018 01:46:13 GMT+07:00 - [B_FirebaseManager] Default API server https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 01:46:13 GMT+07:00 - [B_FirebaseManager] fireBase was not initialized
+18/10/2018 01:46:13 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 01:46:13 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 01:46:13 GMT+07:00 - [B_ModelManager] set default server
+18/10/2018 01:46:13 GMT+07:00 - [B_FirebaseManager] fireBase subscription started...
+18/10/2018 01:46:13 GMT+07:00 - [B_WebManager] creating WebManager
+18/10/2018 01:46:13 GMT+07:00 - [B_ModelManagerRefresher] Servers data refresh started
+18/10/2018 01:46:13 GMT+07:00 - [B_WebManager] building API for URL https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 01:46:14 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 01:46:14 GMT+07:00 - [B_App] Running on a non-TV Device
+18/10/2018 01:46:14 GMT+07:00 - [B_MainActivity] Main Activity started!!!!
+18/10/2018 01:46:14 GMT+07:00 - [B_MainActivity 384689802] onCreate
+18/10/2018 01:46:14 GMT+07:00 - [B_MainActivity 384689802] checkRedirect:redirect
+18/10/2018 01:46:14 GMT+07:00 - [B_ModelManager] set default server
+18/10/2018 01:46:14 GMT+07:00 - [B_PromoService] onHandleWork
+18/10/2018 01:46:14 GMT+07:00 - [B_RatingService] onHandleWork
+18/10/2018 01:46:14 GMT+07:00 - [B_NetworkHelper] ni.isConnected()=true
+18/10/2018 01:46:14 GMT+07:00 - [B_PromoService] doWork
+18/10/2018 01:46:14 GMT+07:00 - [B_AuthBeginActivity 298716908] onCreate
+18/10/2018 01:46:14 GMT+07:00 - [B_NetworkHelper] ni.isConnected()=true
+18/10/2018 01:46:14 GMT+07:00 - [B_RatingService] doWork
+18/10/2018 01:46:14 GMT+07:00 - [B_RatingHelper] ClusterRating no absolute ratings found, exit
+18/10/2018 01:46:14 GMT+07:00 - [B_TC] buildDrawerHeader
+18/10/2018 01:46:14 GMT+07:00 - [B_TC] buildDrawerHeader account is not active
+18/10/2018 01:46:14 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - test is server nl,F,0 with ip null is online
+18/10/2018 01:46:14 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - cluster nl is valid
+18/10/2018 01:46:14 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - server nl,F,0 with host nl-an.bsupdate.com is valid
+18/10/2018 01:46:14 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - last used ip was not found
+18/10/2018 01:46:14 GMT+07:00 - [B_NetworkHelper] ni.isConnected()=true
+18/10/2018 01:46:15 GMT+07:00 - [B_RatingService] joining pinger
+18/10/2018 01:46:15 GMT+07:00 - [B_App] foreground
+18/10/2018 01:46:15 GMT+07:00 - [B_SM] updateAccountInfoAsync
+18/10/2018 01:46:15 GMT+07:00 - [B_PromoService] promo data was successfully loaded
+18/10/2018 01:46:15 GMT+07:00 - [B_SM] updateAccountInfoAsync exiting, not logged in
+18/10/2018 01:46:15 GMT+07:00 - [B_ServiceHelper] schedule at 19 Okt 2018 01.46.15
+18/10/2018 01:46:15 GMT+07:00 - [B_WebManager] ping api
+18/10/2018 01:46:15 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 01:46:15 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 01:46:15 GMT+07:00 - [B_AuthBeginActivity 298716908] onResume
+18/10/2018 01:46:15 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 01:46:15 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 01:46:15 GMT+07:00 - [B_ModelManager] set default server
+18/10/2018 01:46:15 GMT+07:00 - [B_ModelManagerRefresher] Servers data refresh successful
+18/10/2018 01:46:15 GMT+07:00 - [B_ModelManagerRefresher] Servers list updated
+18/10/2018 01:46:15 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 01:46:15 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 01:46:15 GMT+07:00 - [B_CoM] ProcessPromotion onBroadcast
+18/10/2018 01:46:15 GMT+07:00 - [B_CoM] Checkout still not loaded
+18/10/2018 01:46:15 GMT+07:00 - [B_PingApiService] onHandleWork
+18/10/2018 01:46:15 GMT+07:00 - [B_SubscriptionLoadService] onHandleWork
+18/10/2018 01:46:15 GMT+07:00 - [B_NetworkHelper] ni.isConnected()=true
+18/10/2018 01:46:15 GMT+07:00 - [B_NetworkHelper] ni.isConnected()=true
+18/10/2018 01:46:15 GMT+07:00 - [B_SubscriptionLoadService] doWork
+18/10/2018 01:46:15 GMT+07:00 - [B_PingApiService] doWork
+18/10/2018 01:46:15 GMT+07:00 - [B_NetworkHelper] ni.isConnected()=true
+18/10/2018 01:46:15 GMT+07:00 - [B_ApiPinger] ping api
+18/10/2018 01:46:15 GMT+07:00 - [B_ApiPinger] waiting for firebase config fetched
+18/10/2018 01:46:16 GMT+07:00 - [B_CoM] Checkout still not loaded
+18/10/2018 01:46:18 GMT+07:00 - [B_FirebaseManager] fireBaseToken: null
+18/10/2018 01:46:18 GMT+07:00 - [B_FirebaseManager] fireBase subscription finished successfully
+18/10/2018 01:46:18 GMT+07:00 - [B_PI] Installing...
+18/10/2018 01:46:18 GMT+07:00 - [B_CH] finding...
+18/10/2018 01:46:18 GMT+07:00 - [B_CH] Found!
+18/10/2018 01:46:19 GMT+07:00 - [B_PI] installed
+18/10/2018 01:46:19 GMT+07:00 - [B_TCM] Force reload of cached CA certificates on next load
+18/10/2018 01:46:19 GMT+07:00 - [B_PI] deleting cache
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] hash1 property not found
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] new encoder
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] hash1 property applied
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:19 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Fetched
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Ports set to 4500 and 4500, mtu 1280 and 1280
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] OnSuccess 
+null
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Fetched
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Ports set to 4500 and 4500, mtu 1280 and 1280
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Fetched
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Ports set to 4500 and 4500, mtu 1280 and 1280
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] OnSuccess 
+null
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Fetched
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Ports set to 4500 and 4500, mtu 1280 and 1280
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Fetched
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Ports set to 4500 and 4500, mtu 1280 and 1280
+18/10/2018 01:46:20 GMT+07:00 - [B_ApiPinger] Firebase config fetched
+18/10/2018 01:46:20 GMT+07:00 - [B_WebManager] building API for URL https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 01:46:20 GMT+07:00 - [B_WebManager] building API for URL https://d28ifhzqick6j0.cloudfront.net
+18/10/2018 01:46:20 GMT+07:00 - [B_WebManager] building API for URL https://browsec.com/api
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] OnSuccess 
+null
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Fetched
+18/10/2018 01:46:20 GMT+07:00 - [B_FirebaseManager] Ports set to 4500 and 4500, mtu 1280 and 1280
+18/10/2018 01:46:20 GMT+07:00 - [B_ApiPinger] firebase config fetched, waiting for calls
+18/10/2018 01:46:20 GMT+07:00 - [B_CoM] Initial inventory cached
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] set default server
+18/10/2018 01:46:21 GMT+07:00 - [B_ApiPinger] cancelAllCalls with main
+18/10/2018 01:46:21 GMT+07:00 - [B_PingApiService] api found https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 01:46:21 GMT+07:00 - [B_WebManager] building API for URL https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 01:46:21 GMT+07:00 - [B_WebManager] new webServer set https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 01:46:21 GMT+07:00 - [B_AuthBeginActivity 298716908] onPause
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:21 GMT+07:00 - [B_AuthLoginActivity 795970387] onCreate
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:21 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 01:46:21 GMT+07:00 - [B_AuthLoginActivity 795970387] onResume
+18/10/2018 01:46:21 GMT+07:00 - [B_ApiPinger] API already found 
+null
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:21 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:22 GMT+07:00 - [B_ApiPinger] API already found 
+null
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:22 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:24 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:24 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:25 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:28 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:28 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:28 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:29 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:29 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:29 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:29 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:29 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:30 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:31 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:31 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:31 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:31 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:31 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:31 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:31 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:31 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:33 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:34 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:34 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:35 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:36 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:38 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:39 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:40 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:40 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:40 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:40 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:40 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:40 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:40 GMT+07:00 - [AuthLoginActivity 798971065] com.browsec.vpn.rest.b: Error code: 401
+	at com.browsec.vpn.d.p.a(WebManager.java:301)
+	at com.browsec.vpn.ui.d.d.k(AuthLoginTask.java:1198)
+	at com.browsec.vpn.ui.d.b.a(AuthBaseTask.java:40)
+	at com.browsec.vpn.ui.d.b.doInBackground(AuthBaseTask.java:20)
+	at android.os.AsyncTask$2.call(AsyncTask.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+18/10/2018 01:46:40 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:40 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:41 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:43 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:45 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:46 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:46 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:46 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:46 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:46 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:46 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:46 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:46 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:48 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:50 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:51 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:51 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:51 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:51 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:51 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:51 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:51 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:51 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:53 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:55 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:57 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:57 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:57 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:57 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:57 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:57 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:57 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:57 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:46:58 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:46:59 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:59 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:59 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:59 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:59 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:46:59 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:47:00 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:47:00 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:47:00 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:47:00 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:47:00 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:47:00 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:47:00 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:47:00 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:47:02 GMT+07:00 - [B_AuthLoginActivity 795970387] onPause
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] [0, 7, 50, 0, 18, 2, 7, 4, 0, 1, 4, 2, 4, 1, 2, 1, 4, 5, 1, 2, 1, 0, 13, 0, 4, 0, 6, 16, 5, 0, 2, 3, 13, 33, 24]
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] 2 g:50
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] too close to borders g:33 index:33
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] too close to borders g:24 index:34
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] 4 g:18
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] 27 g:16
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] [2, 4, 27]
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] Successfully ended
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringBase] Not enough 5 marks, run algorithm again
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] [0, 50, 0, 18, 2, 7, 4, 0, 1, 4, 2, 4, 1, 2, 1, 4, 5, 1, 2, 1, 0, 13, 0, 4, 0, 6, 16, 5, 0, 2, 3, 13, 33, 24]
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] too close to borders g:50 index:1
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] too close to borders g:33 index:32
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] too close to borders g:24 index:33
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] 3 g:18
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] 26 g:16
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] 31 g:13
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] [3, 26, 31]
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringGaps] Successfully ended
+18/10/2018 01:47:02 GMT+07:00 - [B_ClusteringBase] too many 2 running sub split...
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:47:02 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - test is server sg,F,0 with ip null is online
+18/10/2018 01:47:02 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - cluster sg is valid
+18/10/2018 01:47:02 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - server sg,F,0 with host sg-an.bsupdate.com is valid
+18/10/2018 01:47:02 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - last used ip was not found
+18/10/2018 01:47:02 GMT+07:00 - [B_RatingService] ended
+18/10/2018 01:47:02 GMT+07:00 - [B_RatingService] onHandleWork
+18/10/2018 01:47:02 GMT+07:00 - [B_NetworkHelper] ni.isConnected()=true
+18/10/2018 01:47:02 GMT+07:00 - [B_RatingService] doWork
+18/10/2018 01:47:02 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] [0, 7, 50, 0, 18, 2, 7, 4, 0, 1, 4, 2, 4, 1, 2, 1, 4, 5, 1, 2, 1, 0, 13, 0, 4, 0, 6, 16, 5, 0, 2, 3, 13, 33, 24]
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] 2 g:50
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] too close to borders g:33 index:33
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] too close to borders g:24 index:34
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] 4 g:18
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] 27 g:16
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] [2, 4, 27]
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] Successfully ended
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringBase] Not enough 5 marks, run algorithm again
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] [0, 50, 0, 18, 2, 7, 4, 0, 1, 4, 2, 4, 1, 2, 1, 4, 5, 1, 2, 1, 0, 13, 0, 4, 0, 6, 16, 5, 0, 2, 3, 13, 33, 24]
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] too close to borders g:50 index:1
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] too close to borders g:33 index:32
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] too close to borders g:24 index:33
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] 3 g:18
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] 26 g:16
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] 31 g:13
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] [3, 26, 31]
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringGaps] Successfully ended
+18/10/2018 01:47:03 GMT+07:00 - [B_ClusteringBase] too many 2 running sub split...
+18/10/2018 01:47:03 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - test is server sg,F,0 with ip null is online
+18/10/2018 01:47:03 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - cluster sg is valid
+18/10/2018 01:47:03 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - server sg,F,0 with host sg-an.bsupdate.com is valid
+18/10/2018 01:47:03 GMT+07:00 - [B_VpnManager] restartVpnIfNeeded - last used ip was not found
+18/10/2018 01:47:03 GMT+07:00 - [B_NetworkHelper] ni.isConnected()=true
+18/10/2018 01:47:03 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:47:03 GMT+07:00 - [B_RatingService] ended
+18/10/2018 01:47:07 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 01:47:07 GMT+07:00 - [B_AuthBeginActivity 298716908] onResume
+18/10/2018 01:47:08 GMT+07:00 - [B_ModelManager] set default server
+18/10/2018 01:47:08 GMT+07:00 - [B_AuthBeginActivity 298716908] onPause
+18/10/2018 01:47:08 GMT+07:00 - [B_AuthLoginActivity 881423164] onCreate
+18/10/2018 01:47:08 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 01:47:08 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 01:47:08 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 01:47:08 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 01:47:09 GMT+07:00 - [B_AuthLoginActivity 881423164] onResume
+18/10/2018 01:47:09 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 01:47:09 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 01:47:09 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 01:47:09 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 01:47:09 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 01:47:32 GMT+07:00 - [AuthLoginActivity 190509715] com.browsec.vpn.rest.b: Error code: 401
+	at com.browsec.vpn.d.p.a(WebManager.java:301)
+	at com.browsec.vpn.ui.d.d.k(AuthLoginTask.java:1198)
+	at com.browsec.vpn.ui.d.b.a(AuthBaseTask.java:40)
+	at com.browsec.vpn.ui.d.b.doInBackground(AuthBaseTask.java:20)
+	at android.os.AsyncTask$2.call(AsyncTask.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+18/10/2018 01:48:40 GMT+07:00 - [B_SM] Screen OFF
+18/10/2018 01:48:40 GMT+07:00 - [B_AuthLoginActivity 881423164] onPause
+18/10/2018 01:48:41 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 01:48:41 GMT+07:00 - [B_App] background
+18/10/2018 02:00:40 GMT+07:00 - [B_App] foreground
+18/10/2018 02:00:40 GMT+07:00 - [B_SM] updateAccountInfoAsync
+18/10/2018 02:00:40 GMT+07:00 - [B_SM] updateAccountInfoAsync exiting, not logged in
+18/10/2018 02:00:40 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:00:40 GMT+07:00 - [B_AuthLoginActivity 881423164] onResume
+18/10/2018 02:00:40 GMT+07:00 - [B_SM] Screen ON
+18/10/2018 02:00:40 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:00:40 GMT+07:00 - [B_SM] start check and update acc data
+18/10/2018 02:00:40 GMT+07:00 - [B_SM] updateAccountInfoAsync
+18/10/2018 02:00:40 GMT+07:00 - [B_SM] updateAccountInfoAsync exiting, not logged in
+18/10/2018 02:00:43 GMT+07:00 - [AuthLoginActivity 226748508] com.browsec.vpn.rest.b: Error code: 401
+	at com.browsec.vpn.d.p.a(WebManager.java:301)
+	at com.browsec.vpn.ui.d.d.k(AuthLoginTask.java:1198)
+	at com.browsec.vpn.ui.d.b.a(AuthBaseTask.java:40)
+	at com.browsec.vpn.ui.d.b.doInBackground(AuthBaseTask.java:20)
+	at android.os.AsyncTask$2.call(AsyncTask.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+18/10/2018 02:00:49 GMT+07:00 - [B_AuthLoginActivity 881423164] onPause
+18/10/2018 02:00:49 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 02:00:55 GMT+07:00 - [B_App] background
+18/10/2018 02:01:49 GMT+07:00 - [B_App] foreground
+18/10/2018 02:01:49 GMT+07:00 - [B_SM] updateAccountInfoAsync
+18/10/2018 02:01:49 GMT+07:00 - [B_SM] updateAccountInfoAsync exiting, not logged in
+18/10/2018 02:01:49 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:01:49 GMT+07:00 - [B_AuthBeginActivity 298716908] onResume
+18/10/2018 02:01:53 GMT+07:00 - [B_ModelManager] set default server
+18/10/2018 02:01:54 GMT+07:00 - [B_AuthBeginActivity 298716908] onPause
+18/10/2018 02:01:54 GMT+07:00 - [B_AuthLoginActivity 533095176] onCreate
+18/10/2018 02:01:54 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 02:01:54 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 02:01:54 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 02:01:54 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 02:01:54 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 02:01:54 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 02:01:54 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 02:01:54 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 02:01:54 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:01:54 GMT+07:00 - [B_AuthLoginActivity 533095176] onResume
+18/10/2018 02:03:48 GMT+07:00 - [B_AuthLoginActivity 533095176] onPause
+18/10/2018 02:03:48 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 02:03:59 GMT+07:00 - [B_App] background
+18/10/2018 02:04:46 GMT+07:00 - [B_App] foreground
+18/10/2018 02:04:46 GMT+07:00 - [B_SM] updateAccountInfoAsync
+18/10/2018 02:04:46 GMT+07:00 - [B_SM] updateAccountInfoAsync exiting, not logged in
+18/10/2018 02:04:46 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:04:46 GMT+07:00 - [B_AuthBeginActivity 298716908] onResume
+18/10/2018 02:04:48 GMT+07:00 - [B_ModelManager] set default server
+18/10/2018 02:04:48 GMT+07:00 - [B_AuthBeginActivity 298716908] onPause
+18/10/2018 02:04:48 GMT+07:00 - [B_AuthLoginActivity 713399305] onCreate
+18/10/2018 02:04:48 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 02:04:48 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 02:04:48 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:04:48 GMT+07:00 - [B_AuthLoginActivity 713399305] onResume
+18/10/2018 02:04:48 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 02:04:48 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 02:04:48 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 02:04:48 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 02:04:48 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 02:04:48 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 02:05:07 GMT+07:00 - [AuthLoginActivity 743999332] com.browsec.vpn.rest.b: Error code: 401
+	at com.browsec.vpn.d.p.a(WebManager.java:301)
+	at com.browsec.vpn.ui.d.d.k(AuthLoginTask.java:1198)
+	at com.browsec.vpn.ui.d.b.a(AuthBaseTask.java:40)
+	at com.browsec.vpn.ui.d.b.doInBackground(AuthBaseTask.java:20)
+	at android.os.AsyncTask$2.call(AsyncTask.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+18/10/2018 02:06:23 GMT+07:00 - [B_SM] Screen OFF
+18/10/2018 02:06:24 GMT+07:00 - [B_AuthLoginActivity 713399305] onPause
+18/10/2018 02:06:24 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 02:06:24 GMT+07:00 - [B_App] background
+18/10/2018 02:09:39 GMT+07:00 - [B_SM] Screen OFF
+18/10/2018 02:10:04 GMT+07:00 - [B_App] foreground
+18/10/2018 02:10:04 GMT+07:00 - [B_SM] updateAccountInfoAsync
+18/10/2018 02:10:04 GMT+07:00 - [B_SM] updateAccountInfoAsync exiting, not logged in
+18/10/2018 02:10:04 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:10:04 GMT+07:00 - [B_AuthLoginActivity 713399305] onResume
+18/10/2018 02:10:04 GMT+07:00 - [B_SM] Screen ON
+18/10/2018 02:10:04 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:10:04 GMT+07:00 - [B_SM] start check and update acc data
+18/10/2018 02:10:04 GMT+07:00 - [B_SM] updateAccountInfoAsync
+18/10/2018 02:10:04 GMT+07:00 - [B_SM] updateAccountInfoAsync exiting, not logged in
+18/10/2018 02:10:21 GMT+07:00 - [AuthLoginActivity 380944982] com.browsec.vpn.rest.b: Error code: 401
+	at com.browsec.vpn.d.p.a(WebManager.java:301)
+	at com.browsec.vpn.ui.d.d.k(AuthLoginTask.java:1198)
+	at com.browsec.vpn.ui.d.b.a(AuthBaseTask.java:40)
+	at com.browsec.vpn.ui.d.b.doInBackground(AuthBaseTask.java:20)
+	at android.os.AsyncTask$2.call(AsyncTask.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+
+18/10/2018 02:10:34 GMT+07:00 - [B_AuthLoginActivity 713399305] onPause
+18/10/2018 02:10:34 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 02:10:41 GMT+07:00 - [B_App] background
+18/10/2018 02:11:42 GMT+07:00 - [B_SM] Screen OFF
+18/10/2018 02:12:56 GMT+07:00 - [B_SM] Screen ON
+18/10/2018 02:12:56 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:12:56 GMT+07:00 - [B_SM] start check and update acc data
+18/10/2018 02:12:56 GMT+07:00 - [B_SM] updateAccountInfoAsync
+18/10/2018 02:12:56 GMT+07:00 - [B_SM] updateAccountInfoAsync exiting, not logged in
+18/10/2018 02:20:34 GMT+07:00 - [B_App] foreground
+18/10/2018 02:20:34 GMT+07:00 - [B_SM] updateAccountInfoAsync
+18/10/2018 02:20:34 GMT+07:00 - [B_SM] updateAccountInfoAsync exiting, not logged in
+18/10/2018 02:20:34 GMT+07:00 - [B_WebManager] ping api
+18/10/2018 02:20:34 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 02:20:34 GMT+07:00 - [B_ServiceHelper] start immediately
+18/10/2018 02:20:34 GMT+07:00 - [B_AuthBeginActivity 298716908] onResume
+18/10/2018 02:20:34 GMT+07:00 - [B_PingApiService] onHandleWork
+18/10/2018 02:20:34 GMT+07:00 - [B_NetworkHelper] ni.isConnected()=true
+18/10/2018 02:20:34 GMT+07:00 - [B_PingApiService] doWork
+18/10/2018 02:20:34 GMT+07:00 - [B_NetworkHelper] ni.isConnected()=true
+18/10/2018 02:20:34 GMT+07:00 - [B_ApiPinger] ping api
+18/10/2018 02:20:34 GMT+07:00 - [B_ApiPinger] waiting for firebase config fetched
+18/10/2018 02:20:34 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 02:20:34 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 02:20:34 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 02:20:34 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 02:20:34 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 02:20:34 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 02:20:34 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 02:20:34 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 02:20:35 GMT+07:00 - [B_FirebaseManager] Fetched
+18/10/2018 02:20:35 GMT+07:00 - [B_FirebaseManager] Ports set to 4500 and 4500, mtu 1280 and 1280
+18/10/2018 02:20:35 GMT+07:00 - [B_ApiPinger] Firebase config fetched
+18/10/2018 02:20:35 GMT+07:00 - [B_WebManager] building API for URL https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:20:35 GMT+07:00 - [B_WebManager] building API for URL https://d28ifhzqick6j0.cloudfront.net
+18/10/2018 02:20:35 GMT+07:00 - [B_WebManager] building API for URL https://browsec.com/api
+18/10/2018 02:20:35 GMT+07:00 - [B_ApiPinger] firebase config fetched, waiting for calls
+18/10/2018 02:20:35 GMT+07:00 - [B_FirebaseManager] OnSuccess 
+null
+18/10/2018 02:20:35 GMT+07:00 - [B_FirebaseManager] Fetched
+18/10/2018 02:20:35 GMT+07:00 - [B_FirebaseManager] Ports set to 4500 and 4500, mtu 1280 and 1280
+18/10/2018 02:20:36 GMT+07:00 - [B_ApiPinger] cancelAllCalls with main
+18/10/2018 02:20:36 GMT+07:00 - [B_PingApiService] api found https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:20:36 GMT+07:00 - [B_WebManager] building API for URL https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:20:36 GMT+07:00 - [B_WebManager] new webServer set https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:20:36 GMT+07:00 - [B_ApiPinger] API already found 
+null
+18/10/2018 02:20:36 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 02:20:36 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 02:20:36 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 02:20:36 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 02:20:36 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 02:20:36 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 02:20:36 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 02:20:36 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 02:20:36 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 02:20:36 GMT+07:00 - [B_ApiPinger] API already found 
+null
+18/10/2018 02:20:44 GMT+07:00 - [B_AuthBeginActivity 298716908] onPause
+18/10/2018 02:20:44 GMT+07:00 - [B_ModelManager] do not save model, hash is the same
+18/10/2018 02:20:44 GMT+07:00 - [B_ModelManager] set default server
+18/10/2018 02:20:45 GMT+07:00 - [B_AuthLoginActivity 566195830] onCreate
+18/10/2018 02:20:45 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:20:45 GMT+07:00 - [B_AuthLoginActivity 566195830] onResume
+18/10/2018 02:20:45 GMT+07:00 - [B_AuthLoginActivity 566195830] onPause
+18/10/2018 02:20:45 GMT+07:00 - [B_ModelManager] saving model with server... sg,F,0
+18/10/2018 02:20:45 GMT+07:00 - [B_ModelManager] saving model, encryption started
+18/10/2018 02:20:45 GMT+07:00 - [B_ModelManager] saving model, encryption finished
+18/10/2018 02:20:45 GMT+07:00 - [B_ModelManager] hash2 property applied
+18/10/2018 02:20:45 GMT+07:00 - [B_ModelManager] model info saved successfully to tmp file
+18/10/2018 02:20:45 GMT+07:00 - [B_ModelManager] moving model from tmp file to real file
+18/10/2018 02:20:45 GMT+07:00 - [B_ModelManager] model moved successfully
+18/10/2018 02:20:45 GMT+07:00 - [B_ModelManager] Model successfully saved
+18/10/2018 02:20:45 GMT+07:00 - [B_WebManager] ping is too early, exit, using api https://d22pqz7p30k39z.cloudfront.net
+18/10/2018 02:20:45 GMT+07:00 - [B_AuthLoginActivity 566195830] onResume

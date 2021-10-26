@@ -1,0 +1,6 @@
+Model: Andromax A16C3H
+Device: A16C3H
+SDK: 5.1.1
+App: 0.18
+Account: aariesputranto@gmail.com
+Premium: false
